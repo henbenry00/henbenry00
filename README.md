@@ -2,7 +2,7 @@ Welcome to my cybersecurity portfolio repository! This collection showcases my s
 
 🔍 About Me
 I am a cybersecurity enthusiast passionate about protecting systems, networks, and data from evolving threats. My journey involves exploring the depths of ethical hacking, penetration testing, digital forensics, and network defense. This repository serves as a testament to my commitment to the field and a portfolio of my work.
-I also have a cool, growing YouTube Channel that is deditcated to Mountain Biking. IF you are interested, please check it out with the link provided below at the bottom of this README.
+
 
 
 🤝 Contributing
@@ -13,4 +13,4 @@ If you have any questions or would like to collaborate, feel free to reach out:
 
 Email: benh6615@gmail.com
 LinkedIn: www.linkedin.com/in/benjamin-henry-0323b0272
-YouTube: https://www.youtube.com/@bentspokes00
+
