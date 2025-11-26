@@ -7,9 +7,8 @@
   ### Developer • IT Guy • Creator
 
   <!-- Quick badges -->
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOUR-PORTFOLIO-URL.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-  [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR.EMAIL@EXAMPLE.COM)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benhenryit/)
+  [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)]()
 
   <!-- GitHub profile views (optional flex) -->
   ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
