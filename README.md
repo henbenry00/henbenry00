@@ -11,7 +11,7 @@
   [![Email](https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white)]()
 
   <!-- GitHub profile views (optional flex) -->
-  ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=flat-square)
+  ![Profile Views](https://komarev.com/ghpvc/?username=henbenry00&color=blueviolet&style=flat-square)
 
 </div>
 
